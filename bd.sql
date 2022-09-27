@@ -85,7 +85,7 @@ CREATE TABLE `produtos` (
 -- Extraindo dados da tabela `produtos`
 --
 
-INSERT INTO `produtos` (`id`, `categoriaId`, `nomeProd`, `imgProd` `tamanho`, `cor`, `marca`, `descricao`, `preco`, `quantidade`, `precoPromo` ) VALUES
+INSERT INTO `produtos` (`id`, `categoriaId`, `nomeProd`, `imgProd`, `tamanho`, `cor`, `marca`, `descricao`, `preco`, `quantidade`, `precoPromo` ) VALUES
 (1, 1, 'Calça Jeans Super Skinny Clara', '', 'P', 'Azul Clara', 'Degrant', 'Calça macho brabo', 50.00, 1, 39.99  );
 
 
